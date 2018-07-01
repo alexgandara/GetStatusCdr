@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/axis.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/saaj.jar"/>
+	<classpathentry kind="lib" path="R:/GetStatusCdr/GetStatusCdr/LIB/soap-2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
